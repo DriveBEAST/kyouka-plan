@@ -1,0 +1,51 @@
+@media (max-width: 670px) {
+    .header-list li {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+    }
+
+    .top-wrapper {
+        padding: 10px 1px 300px;
+        background-image: url(maincover.png);
+        background-size: cover;
+    }
+
+    .top-wrapper h1 {
+        font-size: 15px;
+    }
+      
+    .top-wrapper h2 {
+        font-size: 9px;
+        padding-bottom: 5px;
+    }
+
+    .btn-wrapper a {
+        align-items: center;
+        position: relative;
+        margin: 0 auto;
+        padding: 0.7rem 0.8rem;
+        width: 105px;
+        color: #333;
+        font-size: 7px;
+        font-weight: 700;
+        background-color: #ebeff1;
+        transition: 0.3s;
+    }
+
+    .contents-block {
+        width: 100%;
+    }
+
+    .flower {
+        width: 90%;
+        height: 70%;
+    }
+
+    .plan {
+        width: 100%;
+    }
+      
+}
