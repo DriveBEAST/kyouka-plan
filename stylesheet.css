@@ -296,7 +296,7 @@ body {
     height: 220px;
   }
   
-  footer img {
+  .flogo {
     float: left;
     width: 69px;
     border: 2px solid white;
